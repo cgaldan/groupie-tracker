@@ -17,7 +17,7 @@ To run this program you need to install **golang** and after :
 1. Clone the repository :
 - Open a terminal, and type the following command :
     ```bash
-    git clone https://platform.zone01.gr/git/kpetrout/groupie-tracker.git
+    git clone https://github.com/cgaldan/groupie-tracker.git
 2. Set the API keys :
 - Navigate into the project with `cd` command and run the command:
     ```bash
