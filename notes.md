@@ -9,11 +9,6 @@
 - 21 Mamonas Assassinas
 - 46 Coldplay ?
 
-# Locations to change
-- georgia usa
-- massachusetts usa
-- alabama usa
-
 # Things to be done
 - Sort map markers by date **(optional)**
 - Filters asynchronous **(optional)**
