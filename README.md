@@ -19,7 +19,7 @@ To run this program you need to install **golang** and after :
     ```bash
     git clone https://github.com/cgaldan/groupie-tracker.git
 2. Set the API keys :
-- Navigate into the project with `cd` command and run the command:
+- To run the program please ask for the API keys file, then put it in the repository directory and run:
     ```bash
     . set_keys.sh
 3. Run the program :
